@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/maxime-mohandi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/> </a>•
   <a href="mailto:contact@maximemohandi.fr?subject=Contact%20From%20%GitHub"><img src="https://img.shields.io/badge/Contact%20me-36465D?style=flat-square&logo=gmail"/></a>
 </p>
-style=flat-square
+
 # Hi !
 
 My friends sees me as the computer wizard who fix grandma's printer and yes I'm but I'm also a passionate which chose development to challenge himself and to continue to learn every day through his job. 
