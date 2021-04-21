@@ -1,9 +1,9 @@
 <p align="center"><img src="https://avatars.githubusercontent.com/u/34239560?s=400&u=fc4a45b031199e33c8d358e546e242006093e2a5&v=4" alt="profil pic" ></p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/maxime-mohandi"><img src="https://img.shields.io/badge/LinkedIn-View%20Profile-blue?style=social&logo=linkedin" alt="LinkedIn"/> </a>•
-  <a href="mailto:contact@maximemohandi.fr?subject=Contact%20From%20%GitHub"><img src="https://img.shields.io/badge/Mail-Contact%20Me-EA4335%20me?style=social&logo=gmail&color=EA4335"/></a>
+  <a href="https://www.linkedin.com/in/maxime-mohandi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/> </a>•
+  <a href="mailto:contact@maximemohandi.fr?subject=Contact%20From%20%GitHub"><img src="https://img.shields.io/badge/Contact%20me-36465D?style=flat-square&logo=gmail"/></a>
 </p>
-
+style=flat-square
 # Hi !
 
 My friends sees me as the computer wizard who fix grandma's printer and yes I'm but I'm also a passionate which chose development to challenge himself and to continue to learn every day through his job. 
