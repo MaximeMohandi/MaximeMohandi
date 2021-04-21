@@ -1,4 +1,5 @@
-<p align"center">
+<p align="center"><img src="https://avatars.githubusercontent.com/u/34239560?s=400&u=fc4a45b031199e33c8d358e546e242006093e2a5&v=4" alt="profil pic" ></p>
+<p align="center">
   <a href="https://www.linkedin.com/in/maxime-mohandi"><img src="https://img.shields.io/badge/LinkedIn-View%20Profile-blue?style=social&logo=linkedin" alt="LinkedIn"/> </a>•
   <a href="mailto:contact@maximemohandi.fr?subject=Contact%20From%20%GitHub"><img src="https://img.shields.io/badge/Mail-Contact%20Me-EA4335%20me?style=social&logo=gmail&color=EA4335"/></a>
 </p>
@@ -28,11 +29,3 @@ My friends sees me as the computer wizard who fix grandma's printer and yes I'm 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ed)
 ![](https://img.shields.io/badge/Tools-Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=db4128)
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=d33833)
-
-# 📫 Reach Me 
-
-
-- 👀 I’m interested in python, js and c# programming 
-- 🌱 I’m currently learning React and netcore 5
-- 💞️ I’m looking to collaborate on open-source projects
-- 📫 Reach me by mail at contact@maximemohandi.fr
