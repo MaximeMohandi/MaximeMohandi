@@ -8,7 +8,7 @@
 
 # Hi !
 
-My friends sees me as the computer wizard who fix grandma's printer and yes I'm but I'm also a passionate which chose development to challenge himself and to continue to learn every day through his job. 
+My friends sees me as the computer wizard who fix grandma's printer  but I'm also a passionate which chose development to challenge himself and to continue to learn every day through his job. 
 
 # 🧰 Dev & Tools
 
